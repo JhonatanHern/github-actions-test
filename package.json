@@ -1,0 +1,14 @@
+{
+  "name": "github-actions-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JhonatanHern/github-actions-test",
+  "author": "Jhonatan Alexander <jhonatan.hernandez@eyss.io>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^9.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
